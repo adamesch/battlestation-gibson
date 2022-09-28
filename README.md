@@ -37,8 +37,8 @@ Gibson is my gaming PC. This repository contains links to everything I have conn
 - monitor arm: <>
 - camera tripod: <>
 
-# usb hubs
-- 
+## expansion
+- usb hub: <>
 
 # input
 - keyboard: Glorious GMMK PRO (see: keeb-build-dsunset)
