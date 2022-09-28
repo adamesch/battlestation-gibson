@@ -40,11 +40,11 @@ Gibson is my gaming PC. This repository contains links to everything I have conn
 ## expansion
 - usb hub: <>
 
-# input
+## input
 - keyboard: Glorious GMMK PRO (see: keeb-build-dsunset)
 - mouse: Logitech G Pro Wireless
 - macropad: Elgato Stream Deck
 
-# miscellaneous
+## miscellaneous
 - deskpad: <>
 - wrist rest: <>
